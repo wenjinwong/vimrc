@@ -8,7 +8,7 @@ set showcmd
 set mouse=a
 set encoding=utf-8
 set t_Co=256
-set tabstop=2
+set tabstop=4
 set shiftwidth=4
 set expandtab
 set softtabstop=2
