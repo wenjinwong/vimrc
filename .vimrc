@@ -3,6 +3,7 @@ set autoindent
 set nocompatible
 set syntax=on
 set showmode
+set cindent
 set showcmd
 set mouse=a
 set encoding=utf-8
