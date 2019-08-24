@@ -1,3 +1,5 @@
+set nobackup
+set noswapfile
 set nu
 set autoindent
 set nocompatible
@@ -10,8 +12,8 @@ set encoding=utf-8
 set t_Co=256
 set tabstop=4
 set shiftwidth=4
-set expandtab
-set softtabstop=2
+set noexpandtab
+set softtabstop=4
 set cursorline
 set textwidth=100
 set wrap
