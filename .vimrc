@@ -1,19 +1,17 @@
+set tabstop=4
+set cindent
+set autoindent
+set shiftwidth=4
 set nobackup
 set noswapfile
+set undofile
 set nu
-set autoindent
 set nocompatible
 set syntax=on
 set showmode
-set cindent
 set showcmd
-set mouse=a
 set encoding=utf-8
 set t_Co=256
-set tabstop=4
-set shiftwidth=4
-set noexpandtab
-set softtabstop=4
 set cursorline
 set textwidth=100
 set wrap
@@ -28,9 +26,9 @@ set hlsearch
 set incsearch
 set ignorecase
 set smartcase
-set spell spelllang=en_us
-set nobackup
 set undofile
+set nobackup
+set noundofile
 set autochdir
 set noerrorbells
 set visualbell
@@ -38,5 +36,3 @@ set noerrorbells
 set autoread
 set wildmenu
 set wildmode=longest:list,full
-set listchars=tab:»■,trail:■
-set list
