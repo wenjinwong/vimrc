@@ -1,2 +1,3 @@
-sudo apt-get update install gnome-tweak-tools gnnme-shell-extensions
- dash-to-panel
+sudo apt-get update 
+sudo apt-get install gnome-tweak-tools gnnme-shell-extensions 
+add-on:dash-to-panel
